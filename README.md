@@ -12,7 +12,6 @@ A beautiful, flexible UI package, production-ready component based on react-nati
 
 The goal of `ui-kit-native` is expanding the original `React Native component` by adding animations, style customization options, and new features, while still providing a simple API.
 
--------------------------img here-----------------------
 
 
 
@@ -171,7 +170,7 @@ A version that uses `TouchableOpacity` to form the button.
 |---|---|---|---| 
 |`title`|`string`/`undefined`|`undefined`|tittle of button|
 |`size`|`small`/`medium`/`large`/`iconOnly`/`undefined`|`undefined`|size for button|
-|`type`|`primary`/`secondary`/`disabled`/`danger`/`warning`/`success`/`outline`/`undefined`|`undefined`|style for button|
+|`type`|`primary`/`secondary`/`disabled`/`danger`  ,/`warning`/`success`/`outline`/`undefined`|`undefined`|style for button|
 |`buttonStyle`|`ViewStyle`/`undefined`|`undefined`|custom style for button|
 |`iconStyle`|`ViewStyle`/`undefined`|`undefined`|custom style for icon in button|
 |`titleStyle`|`TextStyle`/`undefined`|`undefined`|custom style for icon in button|
